@@ -1,3 +1,12 @@
 # files created by macOS
 .DS_store
 Icon?
+
+# files created by Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# files that needn't be shared
+slippage-excerpts.txt
+i-give-you.ipynb
+i-give-you.txt
